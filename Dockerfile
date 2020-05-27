@@ -15,4 +15,3 @@ RUN tar -zxvf /usr/bin/praat6020_linux64.tar.gz
 
 
 
-
